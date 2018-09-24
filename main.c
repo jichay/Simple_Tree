@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+//struct of node
 struct node{
 	int val;
 	struct node *fg;
